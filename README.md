@@ -1,7 +1,9 @@
 # Android_Login_App_Using_OTP
 Login App
 Link To Apk File Uploaded in drive: https://drive.google.com/drive/folders/1HO9sSu0D_-vL9i4v_YmK7Wmlj-dNfk56?usp=share_link
+
 Note: 
+
 This demo android application is built to authenticate user login with otp.
 Firebase Phone Authentication system is used in the application. As it’s a demo application, phone number validation is not done in the apk, so requesting to enter valid mobile number carefully.
 If you face any issue of getting otp to your phone number, requesting to use below 
