@@ -2,6 +2,8 @@
 Login App
 Link To Apk File Uploaded in drive: https://drive.google.com/drive/folders/1HO9sSu0D_-vL9i4v_YmK7Wmlj-dNfk56?usp=share_link
 
+You may also find apk file at: https://github.com/PavankumarHegde/Android_Login_App_Using_OTP/blob/master/app-debug.apk
+
 Note: 
 
 This demo android application is built to authenticate user login with otp.
